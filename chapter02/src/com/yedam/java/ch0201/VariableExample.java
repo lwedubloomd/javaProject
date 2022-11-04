@@ -21,11 +21,11 @@ public class VariableExample {
 		if(v2 == 0) {
 			v2 = 2;
 			int v3 = v1 + v2;
-			System.out.println(v1+","+ v2+"="+ v3)
+			System.out.println(v1+","+ v2+"="+ v3);
 		}
-		System.out.println(v1+","+ v2+"="+ v3)
+		System.out.println(v1+","+ v2+"="+ v3);
 	}
-	System.out.println(v1+","+ v2+"="+ v3)
+	System.out.println(v1+","+ v2+"="+ v3);
 		
 		/*안녕하싐늬까~~~~~test test*/
 }
