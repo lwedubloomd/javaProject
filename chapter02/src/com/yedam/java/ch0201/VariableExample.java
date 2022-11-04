@@ -26,4 +26,6 @@ public class VariableExample {
 		System.out.println(v1+","+ v2+"="+ v3)
 	}
 	System.out.println(v1+","+ v2+"="+ v3)
+		
+		/*안녕하싐늬까~~~~~test test*/
 }
