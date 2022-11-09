@@ -11,9 +11,7 @@ public class VariableExample {
 		}                   //얘 오류 뜬 이유 변수 문제 잇는것(여기선 위치)
 		int result = value1 + value2 + 5;
 		
-		System.out.println(value1+"," + value2+"," + r
-				
-				.esult);
+		System.out.println(value1+"," + value2+"," + result);
 	
 		/***/
 		
