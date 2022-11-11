@@ -24,6 +24,7 @@ public class ExeApp {
 			case 3:
 				break;
 			case 4:
+				 showInfo();
 				break;
 			case 5:
 				break;
