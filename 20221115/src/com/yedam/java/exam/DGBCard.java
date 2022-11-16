@@ -14,7 +14,7 @@ public class DGBCard extends Card{
 	public void showCardInfo() {
 		// TODO Auto-generated method stub
 		super.showCardInfo();
-		System.out.println("담당직원 - "+ DGCardStaff+","+DGCompany);
+		System.out.println("담당직원 - " + DGCardStaff + ","+ DGCompany);
 		
 	}
 
