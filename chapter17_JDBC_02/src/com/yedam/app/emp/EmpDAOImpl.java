@@ -3,7 +3,9 @@ package com.yedam.app.emp;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.yedam.app.common.DAO;
+import com.yedam.app.EmpDAO;
+import com.yedam.app.EmpVO;
+import com.yedam.common.DAO;
 
 public class EmpDAOImpl extends DAO implements EmpDAO {
 

@@ -2,6 +2,8 @@ package com.yedam.app.emp;
 
 import java.util.List;
 
+import com.yedam.app.EmpVO;
+
 public interface EmpDAO {
 	//전체조회
 	List<EmpVO> selectAll();

@@ -3,9 +3,9 @@ package com.yedam.app2;
 import java.util.List;
 import java.util.Scanner;
 
-import com.yedam.app.emp.EmpDAO;
+import com.yedam.app.EmpDAO;
+import com.yedam.app.EmpVO;
 import com.yedam.app.emp.EmpDAOImpl;
-import com.yedam.app.emp.EmpVO;
 
 public class EmpManagement {
 	
